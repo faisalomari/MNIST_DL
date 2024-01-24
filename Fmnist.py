@@ -1,3 +1,5 @@
+# Faisal Omari - 325616894 - faisalomari321@gmail.com
+# Saji Assi - 314831207 - sajiassi86@gmail.com
 import torch
 import matplotlib.pyplot as plt
 import torch.nn.functional as F
