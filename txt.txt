@@ -1,7 +1,7 @@
 Model1:
-Test Accuracy: 97.30%
-48383
-6.4sec
+Test Accuracy: 97.03%
+48859
+5.4sec
 20 epoches
 
 Model2:
