@@ -50,7 +50,7 @@
 <h2>Instructions to Run:</h2>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/your-repository.git</code></pre>
+    <pre><code>git clone https://github.com/faisalomari/MNIST_DL.git</code></pre>
     <li>Navigate to the cloned repository:</li>
     <pre><code>cd your-repository</code></pre>
     <li>Install the required dependencies. Ensure you have PyTorch installed:</li>
@@ -60,5 +60,5 @@
 </ol>
 
 <footer>
-    <p>For any issues or inquiries, please contact Faisal Omari (325616894) or Saji Assi (314831207).</p>
+    <p>For any issues or inquiries, please contact Faisal Omari - <a href="mailto:faisalomari321@gmail.com">faisalomari321@gmail.com</a></p>
 </footer>
