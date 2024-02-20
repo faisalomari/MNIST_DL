@@ -50,11 +50,11 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/faisalomari/MNIST_DL.git</code></pre>
     <li>Navigate to the cloned repository:</li>
-    <pre><code>cd your-repository</code></pre>
+    <pre><code>cd MNIST_DL</code></pre>
     <li>Install the required dependencies. Ensure you have PyTorch installed:</li>
     <pre><code>pip install torch torchvision</code></pre>
     <li>Run the desired model script. For example, to run Network 1:</li>
-    <pre><code>python network1.py</code></pre>
+    <pre><code>python MNIST.ipynb</code></pre>
 </ol>
 
 <footer>
