@@ -1,5 +1,3 @@
-
-<title>MNIST Classification Models</title>
 <h1>MNIST Classification Models</h1>
 <p>This repository contains PyTorch implementations of multiple models for MNIST digit classification.</p>
 
